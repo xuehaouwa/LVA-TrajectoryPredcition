@@ -1,2 +1,4 @@
 # LVA-TrajectoryPredcition
-The source code of WACV 2019 paper 'Location-Velocity Attention for Pedestrian Trajectory Prediction
+[![HitCount](http://hits.dwyl.io/xuehaouwa/LVA-TrajectoryPredcition.svg)](http://hits.dwyl.io/xuehaouwa/LVA-TrajectoryPredcition)
+
+The pytorch code of WACV 2019 paper 'Location-Velocity Attention for Pedestrian Trajectory Prediction
